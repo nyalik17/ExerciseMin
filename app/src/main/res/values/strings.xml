@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiniExercise</string>
+    <string name="app_tittle">Welcome to Mini Assignment</string>
+    <string name="button_to2">ONE</string>
+    <string name="button_to3">TWO</string>
+    <string name="button_to4">THREE</string>
+    <string name="back">BACK</string>
+    <string name="back_button">Go Back</string>
+    <string name="how_was_your_experience">How was your experience?</string>
+    <string name="activity_3">I loved being here</string>
+    <string name="activity_4">Comp 496 is lit</string>
+</resources>
